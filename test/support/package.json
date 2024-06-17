@@ -13,8 +13,8 @@
     "@peculiar/webcrypto": "^1.1.4",
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
-    "cross-fetch": "^3.0.6",
-    "lodash": "4.17.20",
+    "cross-fetch": "^4.0.0",
+    "lodash": "4.17.21",
     "promise.allsettled": "^1.0.1",
     "tiny-emitter": "1.1.0"
   },
